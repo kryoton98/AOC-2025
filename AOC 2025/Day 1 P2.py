@@ -2,7 +2,7 @@ n = 50
 count = 0
 
 inputs = []
-with open(r'C:\Code Forces\AOC\AOC 2025\aoc1input.txt') as f:
+with open(r'C:\Code Forces\AOC\AOC 2025\day1input.txt') as f:
     for line in f:
         line = line.strip()
         if line == "":
